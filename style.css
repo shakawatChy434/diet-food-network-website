@@ -106,3 +106,17 @@ h2{
         margin-right: 70px;
         padding-left: 200px;
     }
+
+    /* Footer-Part */
+    footer{
+        background-color: blueviolet;
+        text-align: center;
+        padding: 60px;
+        color: burlywood;
+    }
+    .lime{
+        color:lime;
+    }
+    .cyan{
+        color:cyan;
+    }

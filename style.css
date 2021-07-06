@@ -7,6 +7,7 @@ body{
 h1{
     font-size: 30px;
     text-transform: uppercase;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .skip{
     color: rgb(234, 0, 255);
@@ -56,4 +57,31 @@ img{
 }
 .p-alignment{
     text-align: center;
+}
+.secound-item{
+    width: 30%;
+    padding: 20px 10px;
+    margin: 0 10px;
+    background-color:#fff;
+    border-radius: 40px;
+    box-shadow: 0 0 5px 5px aliceblue;
+}
+
+.img-item-02  img{
+    height: 300px;
+    width: 0 auto;
+}
+.img-item img{
+    height: 300px;
+    width: 0 auto;
+    border-radius: 10px;
+}
+
+.text-item{
+    padding-left: 90px;
+}
+h2{
+    font-size: 30px;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }

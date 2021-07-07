@@ -3,7 +3,6 @@ body{
     padding: 0;
     font-family: 'Poppins', sans-serif;
     background-color: grey;
-    
 }
 
 /* logo-part-start */
@@ -13,21 +12,18 @@ body{
     background-color:gray;
     position:relative;
     display: flex;
-    
 }
 .img-logo{
     height:50px;
     width: 10%;
     margin-left: 20px;
     position: relative;
-    
 }
 .h3{
     padding-left: 300px;
 }
 .h3-agn{
     padding-right: 200px;
-
 }
 h3{
     padding-left: 50px;
@@ -42,7 +38,6 @@ h3{
     border-radius: 5%; 
 }
 /* logo-part-end */
-
 h1{
     font-size: 30px;
     color:black;
@@ -52,7 +47,6 @@ h1{
 .skip{
     color: lime;
 }
-
 .link{
     color: #fff;
     text-decoration: none;
@@ -62,7 +56,6 @@ h1{
     font-weight: 10px;
     border-radius: 50px;
 }
-
 .flex{
     display: flex;
 }
@@ -87,7 +80,6 @@ img{
 .change-position{
     padding-right:35px;
 }
-
 .my-recipes{
     width: 50%;
     margin: 0 auto;
@@ -107,7 +99,6 @@ img{
     border-radius: 40px;
     box-shadow: 0 0 5px 5px aliceblue;
 }
-
 .img-item-02  img{
     height: 300px;
     width: 0 auto;
@@ -117,7 +108,6 @@ img{
     width: 0 auto;
     border-radius: 10px;
 }
-
 .text-item{
     padding-left: 90px;
 }
@@ -133,7 +123,6 @@ h2{
     background-color:gray; 
     border-radius: 40px;
     box-shadow: 0 0 5px 5px aliceblue;
-
     }
     .third-part{
         margin-right: 70px;
@@ -149,7 +138,6 @@ h2{
         display: flex;
         height: 0 auto;
         width: 25%;
-     
     }
     .gellary{
         padding: 0;

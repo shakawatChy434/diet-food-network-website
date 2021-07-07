@@ -4,6 +4,9 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 
+#bg-bannar{
+    background-color: grey;
+}
 h1{
     font-size: 30px;
     color:black;
@@ -11,7 +14,8 @@ h1{
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .skip{
-    color: rgb(234, 0, 255);
+    /* color: rgb(234, 0, 255); */
+    color: lime;
 }
 
 .link{
@@ -107,6 +111,23 @@ h2{
         padding-left: 200px;
     }
 
+    /* Gellary-part */
+    .h2{
+        text-align: center;
+        margin-bottom: 100px;
+    }
+    .gal-img{
+        display: flex;
+        height: 0 auto;
+        width: 25%;
+     
+    }
+    .gellary{
+        padding: 0;
+        margin: 0;
+     justify-content: center;
+    }
+
     /* Footer-Part */
     footer{
         background-color: blueviolet;
@@ -120,3 +141,5 @@ h2{
     .cyan{
         color:cyan;
     }
+
+  
